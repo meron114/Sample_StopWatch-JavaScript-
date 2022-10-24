@@ -1,2 +1,2 @@
 # Sample_StopWatch-JavaScript-
-　JavaScriptを利用したストップウォッチのサンプルになります。
+　JavaScriptを使用したストップウォッチのサンプルになります。
